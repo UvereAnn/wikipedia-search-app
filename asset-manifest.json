@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wikipedia-search-app/static/css/main.1d830b4c.chunk.css",
+    "main.js": "/wikipedia-search-app/static/js/main.a2113645.chunk.js",
+    "main.js.map": "/wikipedia-search-app/static/js/main.a2113645.chunk.js.map",
+    "runtime-main.js": "/wikipedia-search-app/static/js/runtime-main.4f12cbf6.js",
+    "runtime-main.js.map": "/wikipedia-search-app/static/js/runtime-main.4f12cbf6.js.map",
+    "static/js/2.c9bb1824.chunk.js": "/wikipedia-search-app/static/js/2.c9bb1824.chunk.js",
+    "static/js/2.c9bb1824.chunk.js.map": "/wikipedia-search-app/static/js/2.c9bb1824.chunk.js.map",
+    "index.html": "/wikipedia-search-app/index.html",
+    "static/css/main.1d830b4c.chunk.css.map": "/wikipedia-search-app/static/css/main.1d830b4c.chunk.css.map",
+    "static/js/2.c9bb1824.chunk.js.LICENSE.txt": "/wikipedia-search-app/static/js/2.c9bb1824.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f12cbf6.js",
+    "static/js/2.c9bb1824.chunk.js",
+    "static/css/main.1d830b4c.chunk.css",
+    "static/js/main.a2113645.chunk.js"
+  ]
+}
